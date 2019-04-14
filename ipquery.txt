@@ -1,0 +1,2 @@
+var lo="广东省", lc="珠海市";
+var localAddress={city:"珠海市", province:"广东省"}
